@@ -1,537 +1,124 @@
 {
-  "clients": [
-    {
-      "name": "АЖМЯКОВА ОЛЬГА ВАЛЕРЬЕВНА",
-      "login": "9093742304",
-      "password": "tester123",
-      "id": "918887969623",
-      "products": [
-        "2 кредитные карты",
-        "Карта «Прибыль»"
-      ],
-      "available": false,
-      "access_note": "Клиент заблокирован"
-    },
-    {
-      "name": "АКУЛИНИН ДМИТРИЙ ВИКТОРОВИЧ",
-      "login": "9084155363",
-      "password": "Tester1235",
-      "id": "",
-      "products": [
-        "Счёт"
-      ],
-      "available": false,
-      "access_note": "Не заходит в учетку"
-    },
-    {
-      "name": "АНДРЮШИНА ЛЮДМИЛА НИКОЛАЕВНА",
-      "login": "9244180556",
-      "password": "tester123",
-      "id": "1134070258630",
-      "products": [
-        "Кредитная карта"
-      ],
-      "available": true
-    },
-    {
-      "name": "АСКАРОВ АНТОН АЛЕКСАНДРОВИЧ",
-      "login": "9093489770",
-      "password": "Tester12#",
-      "id": "519712005382",
-      "products": [],
-      "available": true
-    },
-    {
-      "name": "АХМЕТШИН НИЛ МУХАМЕТОВИЧ",
-      "login": "9196166748",
-      "password": "tester12",
-      "id": "597578018604",
-      "products": [
-        "Потребительский кредит",
-        "Дебетовая карта"
-      ],
-      "available": true
-    },
-    {
-      "name": "БАРАНОВА ЕКАТЕРИНА ВИКТОРОВНА",
-      "login": "9182790328",
-      "password": "tester123A",
-      "id": "",
-      "products": [
-        "2 кредитные карты (просрочка)",
-        "Дебетовая карта",
-        "Потребительский кредит",
-        "Рефинансирование"
-      ],
-      "available": true,
-      "other_passwords": [
-        "tester12"
-      ]
-    },
-    {
-      "name": "БЕРЕЗА ОЛЬГА ВИКТОРОВНА",
-      "login": "9086927569",
-      "password": "Atester123",
-      "id": "150698333906",
-      "products": [
-        "2 дебетовые карты",
-        "2 кредитные карты",
-        "4 потребительских кредита"
-      ],
-      "available": true,
-      "other_passwords": [
-        "tester12"
-      ]
-    },
-    {
-      "name": "БРАТАНЧИКОВ ЕВГЕНИЙ СЕРГЕЕВИЧ",
-      "login": "9081636326",
-      "password": "tester123",
-      "id": "489332831923",
-      "products": [
-        "Кредитная карта",
-        "Банковская карта (блокировка по краже)"
-      ],
-      "available": true
-    },
-    {
-      "name": "ГАЛИН РУСЛАН ИЛДАРОВИЧ",
-      "login": "9272488088",
-      "password": "rt5y6u7jhtgrD",
-      "id": "714993986027",
-      "products": [
-        "Счёт"
-      ],
-      "available": true,
-      "other_passwords": [
-        "tester12"
-      ]
-    },
-    {
-      "name": "ГЕЙКИН АЛЕКСЕЙ МИХАЙЛОВИЧ",
-      "login": "9039000100",
-      "password": "tester123",
-      "id": "502963602",
-      "products": [],
-      "available": true
-    },
-    {
-      "name": "ЖДАНОВ СЕРГЕЙ ВАСИЛЬЕВИЧ",
-      "login": "9132090201",
-      "password": "tester12",
-      "id": "",
-      "products": [
-        "Автокредит",
-        "Счёт для обслуживания кредита"
-      ],
-      "available": true
-    },
-    {
-      "name": "ЗАКИРОВ ФАНИС МАРАТОВИЧ",
-      "login": "9613684322",
-      "password": "tester12",
-      "id": "",
-      "products": [
-        "Бюджетная дебетовая карта"
-      ],
-      "available": true
-    },
-    {
-      "name": "ЗАХАРОВА ОКСАНА АНАТОЛЬЕВНА",
-      "login": "9181711133",
-      "password": "tester123",
-      "id": "254310752139",
-      "products": [
-        "2 потребительских кредита",
-        "Кредитная карта (задолженность)",
-        "Дебетовая карта",
-        "Счёт для обслуживания кредита"
-      ],
-      "available": true
-    },
-    {
-      "name": "КАБАРДИНА ЮЛИЯ АЛЕКСАНДРОВНА",
-      "login": "820020208057",
-      "password": "",
-      "id": "820020198695",
-      "products": [
-        "Кредитная карта (просрочка, кредитные каникулы)",
-        "Некарточный кредит (просрочка)",
-        "Арест счетов"
-      ],
-      "available": false,
-      "access_note": "Пароли не подходят · Не указан пароль"
-    },
-    {
-      "name": "КАЗАРЯН АРМЕН ВЛАДИМИРОВИЧ",
-      "login": "9662229393",
-      "password": "!Tester1&",
-      "id": "933715904843",
-      "products": [],
-      "available": true,
-      "no_products": true
-    },
-    {
-      "name": "КАРПУШКИНА ЛЮБОВЬ МИХАЙЛОВНА",
-      "login": "9867087395",
-      "password": "Tester123",
-      "id": "6909432272",
-      "products": [
-        "2 × кредит",
-        "Дебетовая карта (Visa)"
-      ],
-      "available": false,
-      "access_note": "Клиент заблокирован"
-    },
-    {
-      "name": "КОРЧАГИНА ЮЛИЯ ВЛАДИМИРОВНА",
-      "login": "9097108081",
-      "password": "",
-      "id": "116368774783",
-      "products": [
-        "2 кредитные карты (просрочка, одна на закрытии)",
-        "Дебетовая карта"
-      ],
-      "available": false,
-      "access_note": "Стандартные пароли не подходят · Не указан пароль"
-    },
-    {
-      "name": "КУДРЯВЦЕВА ОЛЬГА СЕРГЕЕВНА",
-      "login": "9527806263",
-      "password": "tester123",
-      "id": "306536982770",
-      "products": [
-        "2 кредитные карты",
-        "Кредит"
-      ],
-      "available": false,
-      "access_note": "Не работает"
-    },
-    {
-      "name": "КУЗНЕЦОВА ЕЛЕНА АЛЕКСЕЕВНА",
-      "login": "9127549557",
-      "password": "tester12",
-      "id": "",
-      "products": [
-        "Ипотека",
-        "Дебетовая карта (Visa)"
-      ],
-      "available": true
-    },
-    {
-      "name": "КУЗНЕЦОВА ТАТЬЯНА ВЛАДИМИРОВНА",
-      "login": "9177622947",
-      "password": "Test12!34",
-      "id": "1828521397",
-      "products": [
-        "Аресты (ФНС, ФССП)"
-      ],
-      "available": true
-    },
-    {
-      "name": "КУЛЬКО ОКСАНА ПЕТРОВНА",
-      "login": "9295127336",
-      "password": "",
-      "id": "357669991816",
-      "products": [
-        "Кредитная карта (не выполнены условия бесплатности)",
-        "Дебетовая карта",
-        "Потребительский кредит",
-        "Ипотека",
-        "Накопительный счёт"
-      ],
-      "available": false,
-      "access_note": "Стандартные пароли не подходят · Клиент заблокирован · Не указан пароль"
-    },
-    {
-      "name": "Клиент Клиентович",
-      "login": "9514432296",
-      "password": "Tester2!",
-      "id": "",
-      "products": [],
-      "available": false,
-      "access_note": "Не заходит в учетку"
-    },
-    {
-      "name": "ЛАЗАРЕВ ПАВЕЛ АНДРЕЕВИЧ",
-      "login": "9234681867",
-      "password": "tester123",
-      "id": "12001922712",
-      "products": [
-        "Кредит"
-      ],
-      "available": true
-    },
-    {
-      "name": "ЛАПТЕВ ОЛЕГ ВЯЧЕСЛАВОВИЧ",
-      "login": "9272356573",
-      "password": "tester12",
-      "id": "175868468",
-      "products": [
-        "2 дебетовые карты"
-      ],
-      "available": true
-    },
-    {
-      "name": "ЛЕВИНА ЕЛЕНА НИКОЛАЕВНА",
-      "login": "9273539770",
-      "password": "tester12",
-      "id": "1482881007",
-      "products": [
-        "Дебетовая карта (Мир)",
-        "Кредит"
-      ],
-      "available": true
-    },
-    {
-      "name": "ЛУТФУЛЛИНА ИРИНА ФЛЮРОВНА",
-      "login": "9272355670",
-      "password": "tester123",
-      "id": "6871321452",
-      "products": [],
-      "available": true
-    },
-    {
-      "name": "ЛЫСЕНКО ТАТЬЯНА АЛЕКСАНДРОВНА",
-      "login": "9940700600",
-      "password": "tester123",
-      "id": "1136965549068",
-      "products": [
-        "Банковская карта (на изготовлении)"
-      ],
-      "available": true
-    },
-    {
-      "name": "ЛЫЧЕВ ЮРИЙ МИХАЙЛОВИЧ",
-      "login": "9511310222",
-      "password": "Test12!34",
-      "id": "293613441513",
-      "products": [
-        "Арест ФССП"
-      ],
-      "available": true
-    },
-    {
-      "name": "МАРАКИН МАКСИМ АЛЕКСАНДРОВИЧ",
-      "login": "9291555555",
-      "password": "tester1235",
-      "id": "616756609413",
-      "products": [],
-      "available": true
-    },
-    {
-      "name": "МАРТЫНОВА ЭЛЬВИРА РАФИТОВНА",
-      "login": "9174171388",
-      "password": "tester123",
-      "id": "8608383392",
-      "products": [],
-      "available": true
-    },
-    {
-      "name": "МАТВЕЕВ ЮРИЙ ВЛАДИМИРОВИЧ",
-      "login": "9272491795",
-      "password": "tester12",
-      "id": "",
-      "products": [
-        "Ипотека (рефинансирование)",
-        "Счёт для обслуживания кредита"
-      ],
-      "available": true
-    },
-    {
-      "name": "МЕРДАНИЧ МАЙЯ РУБИНОВНА",
-      "login": "9162343139",
-      "password": "tester123",
-      "id": "",
-      "products": [],
-      "available": true,
-      "no_products": true
-    },
-    {
-      "name": "МОЧАС РЕГИНА РАМИЛОВНА",
-      "login": "9113124828",
-      "password": "Testikidavra123",
-      "id": "294461769763",
-      "products": [],
-      "available": true
-    },
-    {
-      "name": "МУТАЛОВА ЗУЛЬХИЗА ЭДУАРДОВНА",
-      "login": "9297553395",
-      "password": "tester123",
-      "id": "254836501676",
-      "products": [],
-      "available": false,
-      "access_note": "ПАРОЛЬ НЕ ПОДХОДИТ · Не заходит в учетку"
-    },
-    {
-      "name": "НАФИКОВА ВЕРОНИКА ВАЛЕРИКОВНА",
-      "login": "9273098479",
-      "password": "tester123",
-      "id": "10783552482",
-      "products": [
-        "Кредитная карта",
-        "Дебетовая карта (Мир)"
-      ],
-      "available": false,
-      "access_note": "Клиент заблокирован"
-    },
-    {
-      "name": "НИКОЛАЕВ ДАНИИЛ АЛЕКСАНДРОВИЧ",
-      "login": "9105396634",
-      "password": "!Tester1&",
-      "id": "994456594678",
-      "products": [
-        "2 ареста (ФНС, ФССП)"
-      ],
-      "available": true
-    },
-    {
-      "name": "ПАЗНИКОВ ИЛЬЯ ХАМИТОВИЧ",
-      "login": "9219310610",
-      "password": "",
-      "id": "261032499148",
-      "products": [
-        "Несколько кредитных карт (задолженность)",
-        "Дебетовая карта",
-        "Вклад"
-      ],
-      "available": false,
-      "access_note": "Пароли не подходят · Не указан пароль"
-    },
-    {
-      "name": "ПЕТУХОВА ТАТЬЯНА АЛЕКСЕЕВНА",
-      "login": "9377879102",
-      "password": "tester123",
-      "id": "1454965457",
-      "products": [
-        "Карта «Прибыль Классическая»"
-      ],
-      "available": true
-    },
-    {
-      "name": "РАМЕЕВ МАРАТ АЙРАТОВИЧ",
-      "login": "9033147232",
-      "password": "tester123",
-      "id": "80020716670",
-      "products": [
-        "Кредитная карта (доставка)"
-      ],
-      "available": true
-    },
-    {
-      "name": "РАХАЕВ ЕВГЕНИЙ ЭДУАРДОВИЧ",
-      "login": "9611212219",
-      "password": "tester123",
-      "id": "312532281490",
-      "products": [
-        "Премиальный пакет",
-        "Дебетовая карта (доставка)"
-      ],
-      "available": true
-    },
-    {
-      "name": "СААКЯН МАИС ГЕВОРГОВИЧ",
-      "login": "9268777273",
-      "password": "Tester1!",
-      "id": "1166568664984",
-      "products": [
-        "Кредитная карта (ПИН не установлен)"
-      ],
-      "available": true
-    },
-    {
-      "name": "САВКИНА ТАТЬЯНА ИВАНОВНА",
-      "login": "9273442140",
-      "password": "VaEdinorog145",
-      "id": "294461770593",
-      "products": [],
-      "available": true
-    },
-    {
-      "name": "СТАНКОВСКИЙ АЛЕКСЕЙ ВИТАЛЬЕВИЧ",
-      "login": "3912429460",
-      "password": "tester123",
-      "id": "18668351461",
-      "products": [
-        "Арест"
-      ],
-      "available": true
-    },
-    {
-      "name": "ТЕРЕГУЛОВА НАТАЛЬЯ МИХАЙЛОВНА",
-      "login": "9177364609",
-      "password": "tester123",
-      "id": "7514572370",
-      "products": [
-        "Карта «Прибыль»",
-        "Кредитная карта",
-        "Банковская карта",
-        "Кредит"
-      ],
-      "available": true
-    },
-    {
-      "name": "ХАЙРЕТДИНОВА СВЕТЛАНА ТИМЕРЬЯНОВНА",
-      "login": "9177598980",
-      "password": "tester123",
-      "id": "536157812917",
-      "products": [
-        "Банковская карта",
-        "Вклад «Доход»"
-      ],
-      "available": true
-    },
-    {
-      "name": "ХЛЕБНИКОВА ФАТИМА АЛЕКСАНДРОВНА",
-      "login": "9785765155",
-      "password": "tester123",
-      "id": "1229560677105",
-      "products": [
-        "Банковская карта (на изготовлении)"
-      ],
-      "available": true
-    },
-    {
-      "name": "ШАСТИНА МАРИНА ВИКТОРОВНА",
-      "login": "9828291905",
-      "password": "",
-      "id": "",
-      "products": [
-        "Карта «Прибыль»"
-      ],
-      "available": false,
-      "access_note": "Не указан пароль"
-    },
-    {
-      "name": "ЯМУРЗИН ЭРИК ТИМИРЬЯНОВИЧ",
-      "login": "9177477582",
-      "password": "Test12!34",
-      "id": "7560363089",
-      "products": [
-        "Арест/проверка (не уточнено)"
-      ],
-      "available": true
-    },
-    {
-      "name": "ЯНКО АНТОН ВАЛЕРЬЕВИЧ",
-      "login": "9824812900",
-      "password": "Teterok12",
-      "id": "11423725998",
-      "products": [
-        "Арест ФНС"
-      ],
-      "available": true
-    },
-    {
-      "name": "ЯРМУХАМЕТОВА ЗУГРА МИНИБАЕВНА",
-      "login": "9196098210",
-      "password": "Test12!34",
-      "id": "15721028822",
-      "products": [
-        "2 ареста"
-      ],
-      "available": true
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Закрытый каталог тестовых клиентов — простой формат",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "clients"
+  ],
+  "properties": {
+    "clients": {
+      "type": "array",
+      "maxItems": 1000,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "products",
+          "available"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 160,
+            "pattern": "^[^\\u0000-\\u001f\\u007f]*$"
+          },
+          "login": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 0,
+                "maxLength": 128,
+                "pattern": "^[^\\u0000-\\u001f\\u007f]*$"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "password": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 0,
+                "maxLength": 256,
+                "pattern": "^[^\\u0000-\\u001f\\u007f]*$"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "id": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 0,
+                "maxLength": 128,
+                "pattern": "^[^\\u0000-\\u001f\\u007f]*$"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "products": {
+            "type": "array",
+            "maxItems": 50,
+            "items": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 500,
+              "pattern": "^[^\\u0000-\\u001f\\u007f]*$"
+            }
+          },
+          "available": {
+            "type": "boolean"
+          },
+          "access_note": {
+            "type": "string",
+            "minLength": 0,
+            "maxLength": 1000,
+            "pattern": "^[^\\u0000-\\u001f\\u007f]*$"
+          },
+          "other_passwords": {
+            "type": "array",
+            "maxItems": 30,
+            "items": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 256,
+              "pattern": "^[^\\u0000-\\u001f\\u007f]*$"
+            }
+          },
+          "no_products": {
+            "type": "boolean"
+          }
+        },
+        "allOf": [
+          {
+            "if": {
+              "required": [
+                "no_products"
+              ],
+              "properties": {
+                "no_products": {
+                  "const": true
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "products": {
+                  "maxItems": 0
+                }
+              }
+            }
+          }
+        ]
+      }
     }
-  ]
+  }
 }
