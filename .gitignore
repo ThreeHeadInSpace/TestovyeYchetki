@@ -1,0 +1,9 @@
+dist/
+private/
+node_modules/
+*.log
+.env
+.env.*
+work/
+outputs/
+.DS_Store
